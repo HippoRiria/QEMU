@@ -1,4 +1,4 @@
-# qemu-test-vm配置及信息
+# qemu配置和busybox根文件系统制作
 
 ## 虚机内文件情况
 
